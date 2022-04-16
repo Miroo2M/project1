@@ -1,0 +1,136 @@
+.jumbotron {
+    text-align: center;
+    background: none;
+}
+
+.sectionLight {
+    background-color: #eceeef;
+    padding: 2em;
+}
+
+.sectionDark {
+    background-color: #cccccc;
+    padding: 2rem;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.coolStaffWrapper {
+    margin-top: 55px;
+}
+
+button.coolStuffBtn {
+    background-color: #d8461d;
+    color: #FFF;
+    display: block;
+    margin: auto;
+}
+
+#logo {
+    display: block;
+    margin: auto;
+}
+
+h5.modal-title {
+    margin: auto;
+}
+
+.modalFormWrapper {
+    padding: 2rem;
+}
+
+#slides {
+    padding-bottom: 40px;
+}
+
+.paddings {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.fonts {
+    font-size: 19px;
+}
+
+.lorem {
+    padding-bottom: 25px;
+}
+
+.imgg {
+    display: block;
+    border: 2px solid #212529;
+    padding: 20px;
+    margin-top: 50px;
+    border-radius: 8px;
+}
+
+.imgCenter {
+    display: block;
+    margin: auto;
+}
+
+.btnCenter {
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.photos {
+    margin-top: 50px;
+}
+
+.btn-danger {
+    background-color: #212529;
+    border: #757575;
+    width: 84% ;
+}
+
+.this {
+    padding: 0;
+    margin: 0;
+}
+
+.skateboard {
+    display: block;
+    margin: auto;
+    padding: 0;
+    margin: 0;
+    left: 80px;
+    padding-top: 30px; 
+    margin-right: 0px;
+    height: 400px;
+    width: auto;
+}
+
+ .buttom {
+     margin-bottom: 45px;
+     margin-top: 10px;
+ }
+
+ .footerImg {
+    padding: 20px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+ }
+
+ .fa-facebook-square {
+     color: #3b5998;
+ }
+
+ .fa-google-plus-square {
+     color: #c32f10;
+ }
+
+ .fa-instagram {
+     color: #FFF;
+ }
+
+ .fa {
+     margin: 15px;
+ }
+
+ .socialWrapper {
+     margin-top: 35px;
+    text-align: right;
+}
